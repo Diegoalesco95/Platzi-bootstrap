@@ -9,8 +9,6 @@
 
 ## Tecnologías usadas
 
-En este curso realizaremos una aplicación muy parecida a Instagram, llamada _petgram_. Tendremos nuestras rutas, gestión de usuarios y likes.
-
 - HTML
 - Bootstrap 4
 - jQuery
